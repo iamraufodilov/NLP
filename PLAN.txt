@@ -16,10 +16,8 @@
 
 7) Virtual Assistance
 
-8) Auto Correct
+8) Question Answering
 
-9) Question Answering
+9) Auto Correct
 
 10) Spell Checking
-
-11) Email Filters
